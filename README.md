@@ -12,3 +12,5 @@ Prerequisites:
 * [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/)
 
 * [requests](https://pypi.org/project/requests/)
+
+* [rich](https://rich.readthedocs.io/en/stable/introduction.html)
