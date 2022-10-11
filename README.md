@@ -13,4 +13,4 @@ Prerequisites:
 
 * [requests](https://pypi.org/project/requests/)
 
-* [rich](https://rich.readthedocs.io/en/stable/introduction.html)
+* [rich](https://rich.readthedocs.io/en/stable/introduction.html)[for updatedcryptoprice.py]
